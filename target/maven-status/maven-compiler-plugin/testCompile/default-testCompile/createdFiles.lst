@@ -1,0 +1,11 @@
+utils/tmdbApi/TMDBMovieCacheServiceTest.class
+utils/HttpUtilTest.class
+service/movie/MovieIndexServiceTest.class
+utils/tmdbApi/TMDBMovieServiceTest.class
+utils/tmdbApi/TmdbTokenServiceTest.class
+service/movie/MovieGenreServiceTest.class
+service/movie/MovieDataServiceImplTest.class
+service/movie/WinConditionTest.class
+utils/tmdbApi/TMDBMovieIntegrationTest.class
+service/movie/ConnectionValidationTest.class
+utils/HttpUtilTest$TestData.class
