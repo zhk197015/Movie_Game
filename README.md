@@ -1,4 +1,4 @@
-# Movie Battle Game System Project Documentation
+# Movie Battle Game System Documentation
 
 
 HongKai Zhang, Feng Jiang, YuKun Gao
